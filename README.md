@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @jcp10
+- 👋 Olá" Sou Jean Costa Pereira.
 - 👀 Estou interessado em HTML5, CSS3 e JavaScript
 - 🌱 Estou aprendendo HTML5, CSS3 e JavaScript
